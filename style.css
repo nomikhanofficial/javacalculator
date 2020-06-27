@@ -1,0 +1,52 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.back
+{
+    background-image: url("images/CCC.jpg");
+    height: 881px;
+    width: 100%;
+   
+}
+
+
+.main
+{
+   background-image: url("images/logo4.jpg");
+   text-align: right;
+   padding-right: 150px;
+    padding-top: 200px;
+
+}
+
+input{
+    border-radius: 20px;
+    width: 220px;
+    height: 50px;
+    font-size: 30px;
+    font-family: monospace;
+    margin-bottom: 3px;
+    margin-top: 3px;
+    box-shadow: 0px 2px 2px grey;
+    text-align: right;
+
+}
+
+button
+{
+    font-size: larger;
+    width: 50px;
+    margin: 2px;
+    height: 30px;
+    box-shadow: 1px 1px 1px  black;
+    background-image: url("images/CCC.jpg");
+    background-blend-mode: hard-light;
+    border-radius: 25px;
+    
+}
+
+.clr
+{
+    width: 225px;
+}
